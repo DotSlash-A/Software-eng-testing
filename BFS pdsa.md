@@ -1,0 +1,9 @@
+- we visit the vertices here, then we explore the vertices we visit
+- we need to keep track of the visited vertices, that are yet to be explored, so we use queue for that
+	- these are the methods for queue ![[Pasted image 20231017125838.png]]
+	- and this is how we use queue![[Pasted image 20231017130114.png]]
+	- when we explore a vertex, we look at all its neighbours, and there are two things, wheher a vertex is visited and whether it is explored
+		- so wen we first look at a neighbour, we fir check if it is visited, if it is false, then we want to visit it
+		- so if it not visited before, i will mark it as visited and put this thing into the queue
+			- and putting into the que means, at some later stage, im going to look at its neighbours (expore it)
+			- 

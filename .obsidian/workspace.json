@@ -8,27 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac430426fba04df4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "473eb6878c1578dc",
+            "id": "b325988395bba731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new.md",
+                "file": "w2 SE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a1951d0ec529c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "w2 SE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b0156c2326d86b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "w2 ST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9dad11f198cf370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BFS pdsa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new.md",
+                "file": "BFS pdsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new.md",
+                "file": "BFS pdsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new.md"
+                "file": "BFS pdsa.md"
               }
             }
           }
@@ -155,8 +183,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "473eb6878c1578dc",
+  "active": "b9dad11f198cf370",
   "lastOpenFiles": [
+    "pics/Pasted image 20231017130114.png",
+    "pics/Pasted image 20231017125838.png",
+    "BFS pdsa.md",
+    "w2 ST.md",
+    "pics/Pasted image 20231017113944.png",
+    "w3 ST.md",
+    "pics/Pasted image 20231015163705.png",
+    "pics/Pasted image 20231015163236.png",
+    "w2 SE.md",
+    "pics/Pasted image 20231010170723.png",
+    "pics/Pasted image 20231010170346.png",
+    "Untitled.canvas",
+    "pics/Pasted image 20231010163537.png",
+    "pics/Pasted image 20231010163415.png",
+    "pics/Pasted image 20231010163114.png",
+    "pics/Pasted image 20231010162644.png",
+    "project",
+    "pics",
     "new.md"
   ]
 }
