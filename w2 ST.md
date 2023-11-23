@@ -48,11 +48,26 @@ Controllability: from that particular vertex, going to a final vertex
 	- for weigther: we fill the cell with the weight if there is an edge between those two vertices
 	- memory: [[https://youtu.be/ukbL29rIvGs?t=544 | memory]] #rewatch 
 
- **graph algorithms**
+ - **graph algorithms**
 	we cover: ![[Pasted image 20231010170723.png]]
-	 **Breadth First search:** [[BFS pdsa | maybe revise the pdsa part here? ]]
+	 - **Breadth First search:** [[BFS pdsa | maybe revise the pdsa part here? ]]
 		 It starts at some vertex, then it looks at the adjacency list of that vertex fully, then goes to the first vertex in the adjacency list that is populated, and goes on ...
-		 In that process it computes the smallest path between any two vertices in the graph
+		 In that process it computes the smallest path between any two vertices in the graph.
+		 It also can produce a tree that can be used to traverse from one vertex tot he other, called as breadth first tree, and it will contain all the vertices that are reachable from the vertex s.
+		 ![[Pasted image 20231021124541.png]]
+		- the algorthm maintains a queue
+- Bfs give give the shortest path between the source vertex and the other vertex
+- DFS gives the the discovery and finish times, it also help us with the strongly connected components, which are like maximally connected loops in the graphs
 
 
- 
+# 2.4
+- we take these software code modelled as graphs, and the requirements and generate test cases to meet those test requirements.
+- Test requirements can be of two type:
+	- Structural coverage criteria : just the structure
+	- Data Flow coverage criteria: to augment the nodes of the graph with information like variables and then consider the flow of the value of the variables
+**Structural coverage criteria**
+- _node coverage_: requires the test cases visit the each node atleast once
+	- how do the test cases look like? they are just test paths that visit every node atleast once
+- _edge coverage_ : means that it shud each every edge atleast once, so instead of saying like that, we say that TR has each reachable path upto 1
+	- why do we say upto 1?
+		- for resons we like in testing, we would like edge coverage to always subsume node coverage
