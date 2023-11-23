@@ -1,9 +1,9 @@
 # 2.1
-Types of users
-	1. primary
-	2. secondary
-	3. teritiary
-Analysis of requirement
+- Types of users
+	- primary
+	- secondary
+	- teritiary
+- Analysis of requirement
 	1. Anomaly
 	2. Inconsistency
 	3. Incompleteness
