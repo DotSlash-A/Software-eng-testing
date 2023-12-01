@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "w2 SE.md",
+                "file": "w5 ST.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "w2 SE.md",
+                "file": "w5 ST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "w2 SE.md",
+                "file": "w5 ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "w2 SE.md"
+                "file": "w5 ST.md"
               }
             }
           }
@@ -210,7 +210,13 @@
   "active": "a260e8c6b6dd3959",
   "lastOpenFiles": [
     "w4 ST.md",
+    "w2 SE.md",
+    "w2 ST.md",
+    "w3 ST.md",
     "w5 ST.md",
+    "pics/Pasted image 20231129133923.png",
+    "pics/Pasted image 20231129131159.png",
+    "pics/Pasted image 20231123161423.png",
     "pics/Pasted image 20231122172523.png",
     "pics/Pasted image 20231122171337.png",
     "pics/Pasted image 20231121175148.png",
@@ -218,14 +224,8 @@
     "pics/Pasted image 20231121171714.png",
     "pics/Pasted image 20231121170724.png",
     "pics/Pasted image 20231121170323.png",
-    "pics/Pasted image 20231121165822.png",
-    "w3 ST.md",
     "Untitled",
-    "w2 ST.md",
-    "pics/Pasted image 20231021124541.png",
     "BFS pdsa.md",
-    "pics/Pasted image 20231017130114.png",
-    "w2 SE.md",
     "Untitled.canvas",
     "project",
     "pics",

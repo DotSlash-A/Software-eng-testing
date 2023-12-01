@@ -1,8 +1,8 @@
 # 2.1
 - Types of users
-	- primary
-	- secondary
-	- teritiary
+	1. primary
+	2. secondary
+	3. teritiary
 - Analysis of requirement
 	1. Anomaly
 	2. Inconsistency
@@ -10,14 +10,14 @@
 	4. Ambiguous
 
 # 2.2
-How to identify requirements?
+- How to identify requirements?
 	1. questionaire
 	2. Interviews
 	3. Focus Groups
 	4. Documentations
 	5. NAturalistic observations
 
-How to identify Users? (i think or give it another heading)
+- How to identify Users? (i think or give it another heading)
 	1. Structured Interview
 	2. Semistructured Interview
 	3. Unstructured Interview
