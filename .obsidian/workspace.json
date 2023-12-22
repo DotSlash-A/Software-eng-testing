@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b325988395bba731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "w2 SE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a1951d0ec529c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "w2 SE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0156c2326d86b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "w2 ST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9dad11f198cf370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BFS pdsa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03dbf7429be44d93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "w3 ST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a260e8c6b6dd3959",
+            "id": "6919573b36f87ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a260e8c6b6dd3959",
+  "active": "6919573b36f87ac4",
   "lastOpenFiles": [
-    "w4 ST.md",
+    "w9 SE.md",
+    "BFS pdsa.md",
+    "🚧 Software Engineering Project (Group 14).md",
+    "w5 ST.md",
+    "new.md",
+    "tech stack.md",
     "w2 SE.md",
     "w2 ST.md",
     "w3 ST.md",
-    "w5 ST.md",
+    "w4 ST.md",
+    "pics/Pasted image 20231220115249.png",
+    "pics/Pasted image 20231219175128.png",
     "pics/Pasted image 20231129133923.png",
     "pics/Pasted image 20231129131159.png",
     "pics/Pasted image 20231123161423.png",
@@ -222,13 +168,9 @@
     "pics/Pasted image 20231121175148.png",
     "pics/Pasted image 20231121174440.png",
     "pics/Pasted image 20231121171714.png",
-    "pics/Pasted image 20231121170724.png",
-    "pics/Pasted image 20231121170323.png",
     "Untitled",
-    "BFS pdsa.md",
     "Untitled.canvas",
     "project",
-    "pics",
-    "new.md"
+    "pics"
   ]
 }
